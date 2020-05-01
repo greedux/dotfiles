@@ -89,12 +89,6 @@ filetype on
 "set background=light
 set background=dark
 
-"colorscheme blackdust
-"colorscheme jellybeans
-"colorscheme murphy
-"colorscheme corporation_darkmod
-"colorscheme monokai
-"colorscheme edge
 "colorscheme eighties
 colorscheme solarized
 let g:solarized_contrast="low"    "default value is normal
