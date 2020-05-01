@@ -9,6 +9,7 @@ set cindent
 set autoindent
 set smartindent
 set cursorline
+set nobackup
 
 autocmd FileType python setlocal expandtab
 
