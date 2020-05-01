@@ -108,3 +108,6 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 fi
+
+# fuck bash, let's run zsh
+exec zsh
