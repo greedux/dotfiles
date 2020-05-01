@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =0
+let g:netrw_dirhist_0='/home/icmp/Documents/Code/snowman/src/nc/input/elf'
+let g:netrw_dirhist_9='/home/icmp/Documents/Code/snowman/src/nc/input'
+let g:netrw_dirhist_8='/home/icmp/Documents/Code/snowman/src/nc'
+let g:netrw_dirhist_7='/home/icmp/Documents/Code/snowman/src'
+let g:netrw_dirhist_6='/home/icmp/Documents/Code/snowman'
+let g:netrw_dirhist_5='/home/icmp/Documents/Code/snowman/modules'
+let g:netrw_dirhist_4='/home/icmp/Documents/Code/snowman'
+let g:netrw_dirhist_3='/home/icmp/Documents/Code/snowman/src/ida-plugin'
+let g:netrw_dirhist_2='/home/icmp/Documents/Code/snowman/src'
+let g:netrw_dirhist_1='/home/icmp/Documents/Code/snowman'
